@@ -70,8 +70,8 @@ Tenho interesse e experiência no desenvolvimento de soluções envolvendo **Rob
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AllefeAmorim&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllefeAmorim&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
