@@ -43,6 +43,7 @@ Tenho interesse e experiência no desenvolvimento de soluções envolvendo **Rob
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
+<!--
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -50,7 +51,7 @@ Tenho interesse e experiência no desenvolvimento de soluções envolvendo **Rob
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
+-->
 ---
 <!--
 ## 🚀 Projetos em destaque
@@ -64,6 +65,7 @@ Tenho interesse e experiência no desenvolvimento de soluções envolvendo **Rob
 | **[Nome do projeto 3](https://github.com/SEU-USUARIO/projeto3)** | Pipeline de treino e deploy de modelo de visão em container | `Docker` `Kubernetes` `PyTorch` |
 
 -->
+<!--
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -75,7 +77,7 @@ Tenho interesse e experiência no desenvolvimento de soluções envolvendo **Rob
 
 </div>
 
-<!--
+
 ---
 
 <div align="center">
