@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/állefe-amorim-135a8a233)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allefeaamorim@gmail.com)
+[![LattesCV](https://img.shields.io/badge/Lattes_CV-14005B?style=flat&logo=academia&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=2E66710CF9DA18000C4D53040C963AC9#)
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM)-->
 
 </div>
